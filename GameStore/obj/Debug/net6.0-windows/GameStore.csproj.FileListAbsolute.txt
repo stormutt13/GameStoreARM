@@ -1,0 +1,253 @@
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AddRecord.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.MainForm.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RefreshRecord.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+F:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameAddRecord.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameRefreshRecord.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GamesForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevsForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenresForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformsForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SoldForm.resources
+D:\Others\ycheba\3kurs\курсочача\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypesForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevsForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameAddRecord.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameRefreshRecord.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GamesForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenresForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformsForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SoldForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypesForm.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevAdd.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenreAdd.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformAdd.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SellGame.resources
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\noth1nq\Desktop\kursach\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.ResolveComReference.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevAdd.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevsForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameAddRecord.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameRefreshRecord.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GamesForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenreAdd.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenresForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformAdd.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformsForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SellGame.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SoldForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypesForm.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.ResolveComReference.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevAdd.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevsForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameAddRecord.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameRefreshRecord.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GamesForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenreAdd.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenresForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformAdd.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformsForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SellGame.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SoldForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypesForm.resources
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+C:\Users\RED\Desktop\Новая папка (5)\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.AssemblyReference.cache
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.Auth.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevAdd.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.DevsForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameAddRecord.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GameRefreshRecord.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GamesForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenreAdd.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GenresForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformAdd.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.PlatformsForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.RegForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SellGame.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.SoldForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypesForm.resources
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.GenerateResource.cache
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfoInputs.cache
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.AssemblyInfo.cs
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\refint\GameStore.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.exe
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.deps.json
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.runtimeconfig.json
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\GameStore.pdb
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.csproj.CopyComplete
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.genruntimeconfig.cache
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\ref\GameStore.dll
+C:\Users\noth1nq\Desktop\КУРСАЧ НЕ УДАЛЯТЬ НАХУЙ А ТО РУКИ ВЫРВУ\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypeAdd.resources
+C:\Users\noth1nq\Desktop\GameStore\GameStore\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\noth1nq\Desktop\GameStore\GameStore\obj\Debug\net6.0-windows\GameStore.TypeAdd.resources
